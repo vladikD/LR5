@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LR5</string>
+    <string-array name="sort_options">
+        <item>Назвою</item>
+        <item>Датою</item>
+        <item>Розміром</item>
+    </string-array>
+</resources>
+
